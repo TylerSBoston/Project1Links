@@ -12,16 +12,18 @@ The Expense Reimbursement System will manage the process of reimbursing employee
 
 ## Features
 
-* 
-* 
+* implements Mockito
 * Designed for future expansion
 
 To-do list:
 * friendlier user ui, such as custom div for reimbursements
-* 
+
 
 ## Getting Started
 
+- clone: https://github.com/TylerSBoston/Project1
+- run npm install in the cloned folder
+- 
 
 
 ## Usage
