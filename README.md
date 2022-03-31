@@ -22,8 +22,10 @@ To-do list:
 ## Getting Started
 
 - clone: https://github.com/TylerSBoston/Project1
-- run npm install in the cloned folder
-- 
+- open the file in vscode, run npm install and ng serve
+- clone: https://github.com/TylerSBoston/JavaBackendProject1
+- run the project in eclipse
+- open Localhost:4200
 
 
 ## Usage
